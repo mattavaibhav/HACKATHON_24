@@ -1,0 +1,8 @@
+name: quantsheild
+dependencies:
+  - python=3.12
+  - openai
+  - python-dotenv
+  - black
+  - pylint
+  - streamlit
